@@ -1,5 +1,5 @@
-# Game GUI Java Library
-Game GUI Java Library is an additional tool that must be used together with the [Game GUI IntelliJ IDEA plugin](https://github.com/Paolobd/intellij-gamification-plugin) to create a gamified environment to support scripted GUI testing. It must be imported into the user Java project and used with Selenium WebDriver. This library, along with the plugin, has been developed by Paolo Stefanut Bodnarescul as a **Master Thesis** work at _Politecnico di Torino_ with the aid of the [Software Engineering Research Group](https://softeng.polito.it/).
+# GIPGUT Java Library
+GIPGUT Java Library is an additional tool that must be used together with the [Gamification Intellij Plugin for GUi Testing (GIPGUT)](https://github.com/SoftengPoliTo/GIPGUT/tree/main) to create a gamified environment to support scripted GUI testing. It must be imported into the user Java project and used with Selenium WebDriver. This library, along with the plugin, has been developed by Paolo Stefanut Bodnarescul as a **Master Thesis** work at _Politecnico di Torino_ with the aid of the [Software Engineering Research Group](https://softeng.polito.it/).
 
 ## Documentation
 This library exploits the [WebDriverListener](https://www.selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/events/WebDriverListener.html) interface to track the events to send to the plugin.
